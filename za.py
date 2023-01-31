@@ -105,7 +105,7 @@ logo= f'''
 {50*"-"}
     Owner       :     https://www.facebook.com/anxious2963
     Tool Version :     3.4
-    Thanks Alot  :    RAYHAN BRO
+    Thanks Alot  :    RAYHAN x SoaceX
 {50*"-"}'''
 
 #--(Dark@Colours)---#
